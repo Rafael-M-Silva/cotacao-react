@@ -48,7 +48,7 @@ function App() {
       </div>
       <BsArrowDownUp/>
       <div className="coin">
-        <input type="text" value={converted.toLocaleString('pt-BR', { style: 'currency', currency: selectedCoin })} disabled = {value.length === 0} placeholder={converted.toLocaleString('pt-BR', { style: 'currency', currency: selectedCoin })}/>
+        <input type="text" value={converted.toLocaleString('pt-BR', { style: 'currency', currency: selectedCoin })} disabled = {value.length === 0}/>
         <select onChange={selectedHandleChange}>
           <option value="EUR">EUR</option>
           <option value="BTC">BTC</option>

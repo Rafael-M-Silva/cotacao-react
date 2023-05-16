@@ -1,7 +1,7 @@
 <h1 align="center"> Cotação BRL - USD/BTC/EUR </h1>
 
 <p align="center">
-Desenvolvido para você fazer busca de CEP.
+Projeto 03 React - faculdade flamingo.
 </p>
 
 <p align="center">
